@@ -31,4 +31,8 @@ def select_all_dogs():
     conn.commit()
 
     # return the rows
+<<<<<<< HEAD
     return cursor.fetchall()
+=======
+    return cursor.fetchall()"""TODO"""
+>>>>>>> cd2465fdbb45837fab93ad93be7c01ad03e85e85
