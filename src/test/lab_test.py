@@ -1,6 +1,6 @@
 import sqlite3
 import unittest
-from src.main import lab
+from main import lab
 
 
 class TestLab(unittest.TestCase):
